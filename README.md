@@ -44,5 +44,7 @@ The website presents my personal, academic, and extracurricular details across m
 ## 👨‍💻 Author
 
 Rahul Krishna R
+
 B.Tech AIE
+
 Amrita Vishwa Vidyapeetham
